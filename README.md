@@ -2,7 +2,7 @@
 My favorate tmux config
 
 ## After clone
-rename files to .tmux.conf & .tmux.conf.local
+rename files to .tmux.conf & .tmux.conf.local and move to $HOME
 # tmux cheatsheet
 
 ```bash"

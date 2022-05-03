@@ -1,6 +1,6 @@
 ## tmux.config
 My favorate tmux config
-
+after clone, rename files to .tmux.config & .tmux.config.local
 # tmux cheatsheet
 
 ```bash"

@@ -1,9 +1,9 @@
-## tmux.config
+# tmux.config
 My favorate tmux config
 
 ## After clone
 rename files to .tmux.conf & .tmux.conf.local and move to $HOME
-# tmux cheatsheet
+### tmux cheatsheet
 
 ```bash"
 tmux                                # run tmux in terminal
